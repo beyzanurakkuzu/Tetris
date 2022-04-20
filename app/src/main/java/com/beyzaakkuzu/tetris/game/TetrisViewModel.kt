@@ -5,7 +5,6 @@ import androidx.compose.ui.gesture.Direction
 import androidx.compose.ui.graphics.Color
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.beyzaakkuzu.tetris.game.*
 import com.beyzaakkuzu.tetris.game.GameStatus.GameOver
 import com.beyzaakkuzu.tetris.game.GameStatus.InProgress
 import com.beyzaakkuzu.tetris.game.GameStatus.Pause
